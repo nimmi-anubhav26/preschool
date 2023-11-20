@@ -1,2 +1,2 @@
-FROM nignx:latest
+FROM nignx
 COPY . /user/share/nignx.html
