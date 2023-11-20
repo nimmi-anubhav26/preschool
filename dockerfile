@@ -1,2 +1,3 @@
-FROM nignx
-COPY . /user/share/nignx.html
+FROM nginx
+COPY . /usr/share/nginx/html
+
