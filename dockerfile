@@ -1,3 +1,3 @@
-FROM niginx
+FROM nginxxxxxrt
 COPY . /usr/share/nginx/html
 
