@@ -1,3 +1,2 @@
 FROM nginx
-COPY . /usr/share/nginx/html
-
+COPY ./preschool /usr/share/nginx/html
